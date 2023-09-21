@@ -21,3 +21,5 @@ localhost:34007
 Si va al enlace localhost:34007/ verá la interfaz con cuatro formularios. Si ingresa los valores y presiona Enter le mostrará el resultado.
 
 Enlace a DockerHub: https://hub.docker.com/repository/docker/yorksgomez/spark/general
+
+![image](https://github.com/yorksgomez/tallerdocker/assets/23731047/1082e2e3-f11e-4847-9a31-d31f2b838dae)
